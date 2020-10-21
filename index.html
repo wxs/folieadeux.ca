@@ -1,7 +1,23 @@
 <html charset='utf-8'>
 
-<object data="folieadeux.svg" type="image/svg+xml"
-       id="fad" width="100%" height="100%" onload="animate(this);"></object>
+<style>
+#fad {
+  width: 100%;
+  height: 100%;
+}
+.container {
+  margin-left: calc(50vw - min(40vh, 40vw));
+  margin-top: 10vh;
+  height: min(80vh, 80vw);
+  width: min(80vh, 80vw);
+}
+
+
+</style>
+<div class="container">
+    <object data="folieadeux.svg" type="image/svg+xml"
+           id="fad" onload="animate(this);"></object>
+</div>
 
 
 </html>
