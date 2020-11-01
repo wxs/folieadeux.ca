@@ -1,7 +1,6 @@
 backend:
   name: git-gateway
-  branch: master # Branch to update (optional; defaults to master)
-media_folder: "static/images" # Media files will be stored in the repo under images/uploads
+  branch: main # Branch to update (optional; defaults to master)
 
 collections:
   - name: "dispatches" # Used in routes, e.g., /admin/collections/blog
@@ -15,3 +14,6 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "thumbnail", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
+
+media_folder: "static/images" # Media files will be stored in the repo under images/uploads
+site_url: "https:/folieadeux.ca"
