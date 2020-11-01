@@ -8,7 +8,7 @@ theme = "hugo-theme-codex"
 title = "codex"
 languageCode = "en-ca"
 baseURL = "https://example.org/"
-copyright = "© 2020"
+copyright = "© Folie à Deux 2020"
 
 # Add your Disqus shortname here.
 # disqusShortname = ""
@@ -57,11 +57,11 @@ copyright = "© 2020"
       unsafe = true
 
 # Controls the navigation
-[[menu.main]]
-  identifier = "about"
-  name = "about"
-  title = "About"
-  url = "/"
+#[[menu.main]]
+  #identifier = "about"
+  #name = "about"
+  #title = "About"
+  #url = "/"
 
 [[menu.main]]
   identifier = "blog"
