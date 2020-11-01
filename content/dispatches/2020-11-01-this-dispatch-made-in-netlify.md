@@ -8,12 +8,8 @@ thumbnail: /static/images/screen-shot-2020-10-26-at-16.28.58-.png
 
 Well I gotta say I just LOOOOVE article writing.
 
-
-
 Here's an image in the body of the article:
 
-![FUN](/static/images/screen-shot-2020-10-26-at-16.28.58-.png)
-
-
+![FUN](/images/screen-shot-2020-10-26-at-16.28.58-.png)
 
 Anyway blogging rules
