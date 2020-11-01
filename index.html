@@ -1,5 +1,6 @@
 <html charset='utf-8'>
 
+
 <style>
 #fad {
   width: 100%;
@@ -14,10 +15,21 @@
 
 
 </style>
+
+
 <div class="container">
     <object data="folieadeux.svg" type="image/svg+xml"
            id="fad" onload="animate(this);"></object>
 </div>
+
+<script>
+  var fad = document.getElementById("fad")
+  fad.addEventListener('load', () => {
+    var svgDoc = fad.contentDocument;
+    var path = svgDoc.getElementById("path100");
+  });
+</script>
+
 
 
 </html>
