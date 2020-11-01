@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-git pull && hugo
+git pull --force && hugo
