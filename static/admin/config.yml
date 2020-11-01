@@ -15,5 +15,3 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "thumbnail", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
-
-media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads
