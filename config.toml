@@ -7,7 +7,7 @@ theme = "hugo-theme-codex"
 # Override these settings with your own
 title = "codex"
 languageCode = "en-ca"
-baseURL = "https://example.org/"
+baseURL = "https://folieadeux.ca/"
 copyright = "© Folie à Deux 2020"
 
 # Add your Disqus shortname here.
