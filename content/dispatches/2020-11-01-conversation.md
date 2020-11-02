@@ -8,6 +8,8 @@ date: 2020-11-01T23:27:13.751Z
 *And the third, and most important, is conversation.*\
 — Rumi
 
+Dear X, 
+
 When you asked me to try this platform, I chose a random passage from my Google keeps list of "quotes" to test-publish. Sometimes I casually fling something in front of me without a lot of forethought, guided by effortless instinct. And then I look at it more closely, and I notice with surprise that it's *perfect*. I notice "coincidences" more now. 
 
 What's *perfect* about this quote is that it gestures to the sacred and the divine, which is something the *Folie à Deux* has been exploring. Religion and spirituality used to make us both uncomfortable, reverberating echoes of a secular past. I remember when you told me over a year ago, with an intensity that was departure from your usually measured self : "Cheryl, I want to go *crazy*." I knew what you meant. At that point, we knew we needed to detach ourselves from old ways of thinking and living that was destroying our connection to ourselves and this planet. We felt like we were on the precipice of something that required us to commit, mind, body and soul. We could no longer intellectually dance -- with great gusto, but also careful distance -- with ideas around radical interconnectedness, entangled ecologies, divine mysteries and the unknown. We had to throw ourselves over the edge. 
@@ -25,3 +27,9 @@ So I want our generative dispatches to each other to not only carry the weight a
 So let us honour the madness of the *Folie à Deux* through these dispatches into the future with an intergenerational time horizon. Perhaps these letters will be read by future grandchildren, perhaps they will disintegrate into the vacuum of the void. But the very act of writing them is for us to create meaning, and to hold witness to enduring love. 
 
 Let us move with the current of what emerges.
+
+
+
+In mystery,
+
+C
