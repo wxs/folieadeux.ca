@@ -25,7 +25,7 @@ There has been an elegant maturation in my metaphysics though, that still rests 
 
 For me, the Immanent Divine means that God is not transcendent as a separate being of another substrate -- this proverbial image of a man with a big white beard sitting on a cloud. No, I see God as the universe, and God in us, on earth, in all living and "inert" beings. God is contained in and matters through me and you, in fuzzy Meowbot, in the oak tree outside our window, in my cup of green smoothie and the soil that the vegetables grew from… and in the entangled ecology of relationships and meaning-making that we live into: the folie à deux, language and concepts, this letter, the circles  and the dots. This is the divine realm that is beyond-the-human but not transcendent of the human. 
 
-My favourite contemporary philosopher Bayo Akomololafe expresses it beautifully here, where he imagines if “God” is: 
+My favourite contemporary philosopher Bayo Akomolafe expresses it beautifully here, where he imagines if “God” is: 
 
 > “No longer the irrepressibly transcendent one, but the diffractively immanent manifold. No longer the one who sits at the end of the straight and narrow, but the crossroads – the intersection where things are confused, where things meet, where things shapeshift. No longer the Sphinxian figure who solves all our problems, or even the one who asks new questions, but the one who muddies the water. The confounding variable. No longer the omnipresent, or the omni-absent, but the omni-emergent. The omni-imminent. The one always yet to come. Yet to happen. The one who slips away.”
 
