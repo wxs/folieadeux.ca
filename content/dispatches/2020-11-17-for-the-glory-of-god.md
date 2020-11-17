@@ -35,7 +35,9 @@ Perhaps we create God by living God? Following our wise DM’s notion that I am 
 
 And given that I am thrown into the world with other beings -- both human and more-than-human -- how do I co-exist with the plural ways of being-in-the-world of the other(s). Maybe this is the territory of religion?
 
-Because of my upbringing into and subsequent rejection of Catholicism, I think I’ve always looked at religion as synonymous with institutionalized dogma. However, this was challenged when we listened to the [podcast conversation](https://podtail.com/de/podcast/intellectual-explorers-club/james-carse-and-john-vervaeke-playing-the-infinite/) between John Vervaeke and James Carse. They discussed this innate need in humans to make meaning. They then introduced the root word of religion (religio) as ‘religare’ as the combination of re- (again) + ligare (to bind or connect): which means to reconnect. \
+Because of my upbringing into and subsequent rejection of Catholicism, I think I’ve always looked at religion as synonymous with institutionalized dogma. However, this was challenged when we listened to the [podcast conversation](https://podtail.com/de/podcast/intellectual-explorers-club/james-carse-and-john-vervaeke-playing-the-infinite/) between John Vervaeke and James Carse. They discussed this innate need in humans to individually and collectively make meaning and the historical role of religion in this. What was memorable was the introduction of the root word of religion (religio) as ‘religare’, the combination of re- (again) + ligare (to bind or connect): which means to reconnect. 
+
+\
 This makes me feel better about the possibility of religion as the ecology of rituals and practices that guide **reconnection**. Reconnection with the immanent “God” that is in me, and you, and all that is around us, with cultivating a respectful and loving “I-Thou” relationship with ourselves and the cosmos. Reconnection with the task of making and remaking meaning (maps) on the ever-shifting territory of the divine. Reconnection with connection. 
 
 In mystery,
