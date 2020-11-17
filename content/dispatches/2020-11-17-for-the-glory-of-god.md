@@ -11,7 +11,7 @@ Each of these objects are gathering points of ideas, haunted by the meaning that
 
 Now that we're firmly ensconced in "Safe Ghost Space", I admit that I have wrongly attributed to us this idea of being comfortable with notions of spirituality and religion. Actually, we're discomfortable in that way where we need to be playful and irreverent with our semantics when we try to reclaim notions of “God”, the spiritual, the sacred and the religious. 
 
-At one of our Dungeons and Dragons games, we were struck by a scenario that our dungeon-master David co-created with another player Rachel: one of the game characters inquires with a spectral figure on an astral plane about whether there is “goodness” in the universe. This figure answers that given that the cosmos encompasses everything, and that we (sentient conscious beings) are part the universe, then we are the manifestation of goodness and evil in the universe. 
+At one of our Dungeons and Dragons games, we were struck by a scenario that our dungeon-master David facilitated: one of the game characters inquires with a spectral figure on an astral plane about whether there is “goodness” in the universe. This figure answers that given that the cosmos encompasses everything, and that we (sentient conscious beings) are part the universe, then we are the manifestation of goodness and evil in the universe. 
 
 There’s a beautiful simplicity to this concept: we(humans) know that we exist in the universe, and we try to make sense of the universe, therefore we are how the universe makes sense of itself. If I choose to be “good”, and the universe includes me, then the universe includes “goodness”. That is the radical responsibility that comes with the territory of living in the void. 
 
