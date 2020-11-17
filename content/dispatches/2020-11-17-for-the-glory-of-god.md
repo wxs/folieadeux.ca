@@ -5,7 +5,7 @@ date: 2020-11-17T17:01:54.383Z
 ---
 Dear X, 
 
-This letter-writing experiment is already starting to reconfigure me in interesting ways -- it’s become a cardboard collection box where I’m picking up scraps and ephemera from our coffee conversations to remember for later: a feather there, an acorn here, a lot of cool rocks and lost marbles. 
+This letter-writing experiment is already starting to reconfigure me in interesting ways -- I've started a cardboard collection box in my brain where I’m picking up scraps and ephemera from our coffee conversations to remember: a feather there, an acorn here, a lot of cool rocks and lost marbles. 
 
 Each of these objects are gathering points of ideas, haunted by the meaning that they house. I wonder what our cabinet of curiosities will hold over time.
 
