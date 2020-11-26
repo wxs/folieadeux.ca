@@ -52,3 +52,7 @@ I’d like to conclude with one more quote from Carse, from a section where he c
 > Society is a manifestation of power. It is theatrical, having an established script. Deviations from the script are evident at once. Deviation is antisocietal and therefore forbidden by society under a variety of sanctions.
 
 I would like to joyously participate in the infinite game of culture, in the spirit of play and curiosity.
+
+With love,
+
+  X
