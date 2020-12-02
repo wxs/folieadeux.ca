@@ -5,7 +5,7 @@ date: 2020-12-02T21:04:36.800Z
 ---
 Dear X, 
 
-We’ve arrived to a significant point: we just bought a house, and with it, a new horizon of change and possibility. It’s funny how much the shared thread of novelty is such a critical part of our relationship. We savour the delicious weight of potential, the open space to imagine all the ways we can remake ourselves. This is probably why the *folie à deux* is so exciting to us, its shape is fluid in constant becoming. We both like to sit at the edge of a sheer cliff, legs swinging over the void, and craft dreams in the clouds around who we might become together. Sometimes, these cloud fantasies become so real and palpable that we step off the ledge towards them. 
+We’ve arrived to a significant point: we just bought a house, and with it, a new horizon of change and possibility. It’s funny how much the shared thread of novelty is such a critical part of our relationship. We savour the delicious weight of potential, the open space to imagine all the ways we can remake ourselves. This is probably why the *folie à deux* is so exciting to us, its shape is fluid in constant becoming. We both sit at the edge of a sheer cliff, legs swinging over the void, and craft dreams in the clouds around who we might become together. Sometimes, these cloud fantasies become so real and palpable that we step off the ledge towards them. 
 
 We refuse being pinned down. We despise choosing sides. Some people might claim that we are fence-sitters, but I think we’re closer to playful tricksters who eschew these limiting binaries. Instead, we switch on our disco lasers and dance in the**[ infinite game of culture](https://folieadeux.ca/dispatches/2020-11-26-goodness-gracious/)**. 
 
