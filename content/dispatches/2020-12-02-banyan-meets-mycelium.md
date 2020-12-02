@@ -31,7 +31,7 @@ When we went to bed that night, we both had restless sleeps on the borders of re
 
 However, as indulgent as I am getting with this “woah dude” moment, it was more special in its **process** than its content: a frozen synthesis point in our developmental becoming of the *folie à deux*. We brought together our disparate threads, and braided more closely in cross-contamination and mutual reciprocity. 
 
-Movies love to assign “roles” to their characters as a simplified proxy for the complexity of encountering and being changed by difference: country boy meets city girl, good girl meets bad boy, mom and daughter switch places etc etc etc. So I’m going to cringingly adopt the trope by assigning these identity roles for the story of interdependent growth: 
+Movies love to assign “roles” to their characters as a simplified proxy for the complexity of encountering and being changed by difference: country boy meets city girl, good girl meets bad boy, mom and daughter switch places etc etc etc. So I’m going to cringingly adopt the trope by assigning these identity roles for our story of interdependent growth: 
 
 When we first met, I was a romantic artist with an English and Philosophy degree, studying Phenomenology and Proust. You were a rational computer engineer with an appreciation for esoteric math formulas. Probably in the premise of this film, I think engineers are nerds, and you think art is dumb. But then we fall in love, strangely attracted to each other’s differences. Over time, I found myself reading “Computer Power and Human Reason” by Joseph Weizenbaum for my Masters degree, and you became the “artist”, flying to Europe to exhibit your artwork in Paris. 
 
