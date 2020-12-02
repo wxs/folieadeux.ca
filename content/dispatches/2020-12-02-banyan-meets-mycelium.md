@@ -29,7 +29,7 @@ Most recently, we chatted about what it means to hold a relationship with the im
 
 When we went to bed that night, we both had restless sleeps on the borders of reality, filled with vivid imagery. I felt like I was spinning along the axis of the milky way, circling around the same insight again and again: God is collective consciousness. 
 
-However, as indulgent as I am getting with this “woah dude” moment, it was more special in the process than the content: a frozen synthesis point in our developmental becoming of the *folie à deux*. We brought together our disparate threads, and braided more closely in cross-contamination and mutual reciprocity. 
+However, as indulgent as I am getting with this “woah dude” moment, it was more special in its **process** than its content: a frozen synthesis point in our developmental becoming of the *folie à deux*. We brought together our disparate threads, and braided more closely in cross-contamination and mutual reciprocity. 
 
 Movies love to assign “roles” to their characters as a simplified proxy for the complexity of encountering and being changed by difference: country boy meets city girl, good girl meets bad boy, mom and daughter switch places etc etc etc. So I’m going to cringingly adopt the trope by assigning these identity roles for the story of interdependent growth: 
 
