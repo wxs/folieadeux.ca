@@ -12,27 +12,33 @@
   height: min(80vh, 80vw);
   width: min(80vh, 80vw);
 }
-
-.foo {
-  left: 0;
+#stuff {
+  font-family: -apple-system,BlinkMacSystemFont,segoe ui,Roboto,Oxygen-Sans,Ubuntu,Cantarell,helvetica neue,sans-serif;
+  text-align: right;
+  font-size: 20pt;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  padding-top: 20px;
 }
 
+#stuff a {
+  text-decoration: none;
+  color: black;
+}
+#stuff a:hover {
+  letter-spacing: 0.3em;
+}
 
 </style>
 
 
 <div class="container">
-    <object data="folieadeux.svg" type="image/svg+xml"
-           id="fad" onload="animate(this);"></object>
+    <object data="folieadeux.svg" type="image/svg+xml" id="fad"></object>
+  <div id="stuff">
+  <a href='/dispatches'>dispatches</a>
+  </div>
 </div>
 
-<script>
-  var fad = document.getElementById("fad")
-  fad.addEventListener('load', () => {
-    var svgDoc = fad.contentDocument;
-    var path = svgDoc.getElementById("path100");
-  });
-</script>
 
 
 </html>
