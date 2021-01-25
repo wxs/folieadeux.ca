@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Conversation "
+title: "Divine Conversation "
 date: 2020-11-01T23:27:13.751Z
 ---
 *There are three ways to approach the mystery of the divine.*\
