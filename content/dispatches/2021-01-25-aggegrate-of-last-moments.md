@@ -24,3 +24,9 @@ As I brush past the shimmering veil of the “woo” to step deeper into the dar
 So as the Folie à Deux (our “Madness of Two”) jumps off the edge -- because leaping away from the known is how we move towards possible futures that are unimaginable to us now -- I’ll save a place in our pantheon of selves to the Critical Cynic, who will grumpily grip onto the bungee cord tied to our waist. This Post-Modern Cynic remains stubbornly alive in me, skeptical of all meta-narratives and whispering to us about the Void. So to honour her, I will finish with a quote from Thomas Pynchon’s postmodern opus *Gravity’s Rainbow... and still* say that an aggregate of last moments is not unlike the drops of water returning to a vast ocean. 
 
 > “It's been a prevalent notion. Fallen sparks. Fragments of vessels broken at the Creation. And someday, somehow, before the end, a gathering back to home. A messenger from the Kingdom, arriving at the last moment. But I tell you there is no such message, no such home -- only the millions of last moments . . . nothing more. Our history is an aggregate of last moments.”
+
+
+
+In Mystery,
+
+C
